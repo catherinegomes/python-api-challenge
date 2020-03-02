@@ -1,6 +1,6 @@
 # Python API Challenge - WeatherPy
 
-A minimum of 500 unique (non-repeat) cities were sampled based on latitude and longitude to assess weather conditions. Analysis with plotly is avalable to [view](WeatherPy_with_plotly.ipynb). Version with matplotlib is available to [view](WeatherPy.ipynb). To determine if weather conditions differ at the equator, the following plots were generated:
+A minimum of 500 unique (non-repeat) cities were sampled based on latitude and longitude to assess weather conditions. Analysis with plotly is available to [view](WeatherPy_with_plotly.ipynb). Version with matplotlib is available to [view](WeatherPy.ipynb). To determine if weather conditions differ at the equator, the following plots were generated:
 
 **Latitude vs. Max Temperature** <br/>
 Cities located between the latitudes of -20 to 12 report the most elevated temperatures with 75 degrees Fahrenheit and above.
