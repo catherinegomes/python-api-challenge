@@ -8,15 +8,17 @@ verify_ssl = true
 [packages]
 pandas = "*"
 numpy = "*"
-ipykernel = "*"
 matplotlib = "*"
-seaborn = "*"
-lifelines = "*"
-rpy2 = "*"
 plotly = "*"
+ipykernel = "*"
+jupyter = "*"
+chart-studio = "*"
+sqlalchemy = "*"
+flask = "*"
+flask-sqlalchemy = "*"
 requests = "*"
+psutil = "*"
 citipy = "*"
-api-keys = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
